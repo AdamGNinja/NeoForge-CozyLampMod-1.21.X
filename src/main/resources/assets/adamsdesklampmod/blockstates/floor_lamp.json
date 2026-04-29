@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=false": { "model": "adamsdesklampmod:block/floor_lamp_off" },
+    "lit=true":  { "model": "adamsdesklampmod:block/floor_lamp_on" }
+  }
+}

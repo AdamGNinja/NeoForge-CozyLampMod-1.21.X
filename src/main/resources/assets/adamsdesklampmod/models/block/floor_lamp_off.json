@@ -1,0 +1,48 @@
+{
+  "textures": {
+    "base":     "minecraft:block/stone",
+    "shade":    "minecraft:block/coal_block",
+    "particle": "minecraft:block/stone"
+  },
+  "elements": [
+    {
+      "name": "base_plate",
+      "from": [4, 0, 4],
+      "to":   [12, 1, 12],
+      "faces": {
+        "down":  { "texture": "#base", "cullface": "down" },
+        "up":    { "texture": "#base" },
+        "north": { "texture": "#base" },
+        "south": { "texture": "#base" },
+        "east":  { "texture": "#base" },
+        "west":  { "texture": "#base" }
+      }
+    },
+    {
+      "name": "pole",
+      "from": [7, 1, 7],
+      "to":   [9, 14, 9],
+      "faces": {
+        "down":  { "texture": "#base" },
+        "up":    { "texture": "#base" },
+        "north": { "texture": "#base" },
+        "south": { "texture": "#base" },
+        "east":  { "texture": "#base" },
+        "west":  { "texture": "#base" }
+      }
+    },
+    {
+      "name": "shade",
+      "from": [5, 11, 5],
+      "to":   [11, 15, 11],
+      "faces": {
+        "down":  { "texture": "#shade" },
+        "up":    { "texture": "#shade" },
+        "north": { "texture": "#shade" },
+        "south": { "texture": "#shade" },
+        "east":  { "texture": "#shade" },
+        "west":  { "texture": "#shade" }
+      }
+    }
+  ]
+}
