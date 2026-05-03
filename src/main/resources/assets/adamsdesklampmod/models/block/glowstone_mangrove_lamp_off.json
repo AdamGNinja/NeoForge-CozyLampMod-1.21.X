@@ -1,0 +1,6 @@
+{
+	"parent": "adamsdesklampmod:block/mangrove_lamp_off",
+	"textures": {
+		"5": "adamsdesklampmod:block/glow_light_off"
+	}
+}

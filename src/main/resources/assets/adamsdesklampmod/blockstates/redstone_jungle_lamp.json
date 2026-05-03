@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=false": { "model": "adamsdesklampmod:block/redstone_jungle_lamp_off" },
+    "lit=true":  { "model": "adamsdesklampmod:block/redstone_jungle_lamp_on" }
+  }
+}

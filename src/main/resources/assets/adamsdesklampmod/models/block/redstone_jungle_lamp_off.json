@@ -1,0 +1,6 @@
+{
+	"parent": "adamsdesklampmod:block/jungle_lamp_off",
+	"textures": {
+		"5": "adamsdesklampmod:block/red_light_off"
+	}
+}

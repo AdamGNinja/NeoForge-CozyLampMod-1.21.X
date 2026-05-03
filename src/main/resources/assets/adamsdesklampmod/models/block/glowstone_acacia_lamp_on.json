@@ -1,0 +1,10 @@
+{
+	"parent": "adamsdesklampmod:block/wood_lamp",
+	"textures": {
+		"0": "adamsdesklampmod:block/acacia_base_on",
+		"3": "adamsdesklampmod:block/acacia_neck_glow_on",
+		"4": "adamsdesklampmod:block/acacia_lamphead_glow_on",
+		"5": "adamsdesklampmod:block/glow_light_on",
+		"particle": "adamsdesklampmod:block/acacia_base_on"
+	}
+}

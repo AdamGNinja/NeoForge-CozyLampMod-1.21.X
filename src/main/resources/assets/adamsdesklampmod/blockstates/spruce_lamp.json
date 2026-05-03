@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=false": { "model": "adamsdesklampmod:block/spruce_lamp_off" },
+    "lit=true":  { "model": "adamsdesklampmod:block/spruce_lamp_on" }
+  }
+}

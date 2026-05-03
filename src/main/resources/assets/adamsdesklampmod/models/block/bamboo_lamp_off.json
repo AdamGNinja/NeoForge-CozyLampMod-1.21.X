@@ -1,0 +1,10 @@
+{
+	"parent": "adamsdesklampmod:block/wood_lamp",
+	"textures": {
+		"0": "adamsdesklampmod:block/bamboo_base_off",
+		"3": "adamsdesklampmod:block/bamboo_neck_off",
+		"4": "adamsdesklampmod:block/bamboo_lamphead_off",
+		"5": "adamsdesklampmod:block/light_off",
+		"particle": "adamsdesklampmod:block/bamboo_base_off"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"parent": "adamsdesklampmod:block/wood_lamp",
+	"textures": {
+		"0": "adamsdesklampmod:block/crimson_base_on",
+		"3": "adamsdesklampmod:block/crimson_neck_on",
+		"4": "adamsdesklampmod:block/crimson_lamphead_on",
+		"5": "adamsdesklampmod:block/light_on",
+		"particle": "adamsdesklampmod:block/crimson_base_on"
+	}
+}
