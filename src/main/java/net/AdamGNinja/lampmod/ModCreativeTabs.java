@@ -57,6 +57,10 @@ public class ModCreativeTabs {
                         output.accept(ModItems.GLOWSTONE_BAMBOO_LAMP.get());
                         output.accept(ModItems.GLOWSTONE_CRIMSON_LAMP.get());
                         output.accept(ModItems.GLOWSTONE_WARPED_LAMP.get());
+                        // Iron lamps
+                        output.accept(ModItems.IRON_LAMP.get());
+                        output.accept(ModItems.REDSTONE_IRON_LAMP.get());
+                        output.accept(ModItems.GLOWSTONE_IRON_LAMP.get());
                     })
                     .build());
 }

@@ -38,5 +38,9 @@
   "block.adamsdesklampmod.glowstone_crimson_lamp": "Glowstone Crimson Lamp",
   "block.adamsdesklampmod.glowstone_warped_lamp": "Glowstone Warped Lamp",
 
+  "block.adamsdesklampmod.iron_lamp": "Iron Lamp",
+  "block.adamsdesklampmod.redstone_iron_lamp": "Redstone Iron Lamp",
+  "block.adamsdesklampmod.glowstone_iron_lamp": "Glowstone Iron Lamp",
+
   "creativetab.adamsdesklampmod.lamp_tab": "Adam's Desk Lamps"
 }

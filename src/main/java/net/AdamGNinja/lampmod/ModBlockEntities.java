@@ -52,6 +52,10 @@ public class ModBlockEntities {
                             ModBlocks.GLOWSTONE_CHERRY_LAMP.get(),
                             ModBlocks.GLOWSTONE_BAMBOO_LAMP.get(),
                             ModBlocks.GLOWSTONE_CRIMSON_LAMP.get(),
-                            ModBlocks.GLOWSTONE_WARPED_LAMP.get()
+                            ModBlocks.GLOWSTONE_WARPED_LAMP.get(),
+                            // Iron lamps
+                            ModBlocks.IRON_LAMP.get(),
+                            ModBlocks.REDSTONE_IRON_LAMP.get(),
+                            ModBlocks.GLOWSTONE_IRON_LAMP.get()
                     ).build(null));
 }
