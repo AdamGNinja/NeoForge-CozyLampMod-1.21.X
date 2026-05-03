@@ -18,9 +18,45 @@ public class ModCreativeTabs {
                     .withTabsBefore(CreativeModeTabs.COMBAT)
                     .icon(() -> ModItems.DESK_LAMP.get().getDefaultInstance())
                     .displayItems((parameters, output) -> {
+                        // Original lamps
                         output.accept(ModItems.DESK_LAMP.get());
                         output.accept(ModItems.FLOOR_LAMP.get());
+                        // Wood lamps
+                        output.accept(ModItems.OAK_LAMP.get());
+                        output.accept(ModItems.SPRUCE_LAMP.get());
+                        output.accept(ModItems.BIRCH_LAMP.get());
+                        output.accept(ModItems.JUNGLE_LAMP.get());
+                        output.accept(ModItems.ACACIA_LAMP.get());
+                        output.accept(ModItems.DARK_OAK_LAMP.get());
+                        output.accept(ModItems.MANGROVE_LAMP.get());
+                        output.accept(ModItems.CHERRY_LAMP.get());
+                        output.accept(ModItems.BAMBOO_LAMP.get());
+                        output.accept(ModItems.CRIMSON_LAMP.get());
+                        output.accept(ModItems.WARPED_LAMP.get());
+                        // Redstone variants
+                        output.accept(ModItems.REDSTONE_OAK_LAMP.get());
+                        output.accept(ModItems.REDSTONE_SPRUCE_LAMP.get());
+                        output.accept(ModItems.REDSTONE_BIRCH_LAMP.get());
+                        output.accept(ModItems.REDSTONE_JUNGLE_LAMP.get());
+                        output.accept(ModItems.REDSTONE_ACACIA_LAMP.get());
+                        output.accept(ModItems.REDSTONE_DARK_OAK_LAMP.get());
+                        output.accept(ModItems.REDSTONE_MANGROVE_LAMP.get());
+                        output.accept(ModItems.REDSTONE_CHERRY_LAMP.get());
+                        output.accept(ModItems.REDSTONE_BAMBOO_LAMP.get());
+                        output.accept(ModItems.REDSTONE_CRIMSON_LAMP.get());
+                        output.accept(ModItems.REDSTONE_WARPED_LAMP.get());
+                        // Glowstone variants
+                        output.accept(ModItems.GLOWSTONE_OAK_LAMP.get());
+                        output.accept(ModItems.GLOWSTONE_SPRUCE_LAMP.get());
+                        output.accept(ModItems.GLOWSTONE_BIRCH_LAMP.get());
+                        output.accept(ModItems.GLOWSTONE_JUNGLE_LAMP.get());
+                        output.accept(ModItems.GLOWSTONE_ACACIA_LAMP.get());
+                        output.accept(ModItems.GLOWSTONE_DARK_OAK_LAMP.get());
+                        output.accept(ModItems.GLOWSTONE_MANGROVE_LAMP.get());
+                        output.accept(ModItems.GLOWSTONE_CHERRY_LAMP.get());
+                        output.accept(ModItems.GLOWSTONE_BAMBOO_LAMP.get());
+                        output.accept(ModItems.GLOWSTONE_CRIMSON_LAMP.get());
+                        output.accept(ModItems.GLOWSTONE_WARPED_LAMP.get());
                     })
                     .build());
-
 }
