@@ -61,6 +61,10 @@ public class ModCreativeTabs {
                         output.accept(ModItems.IRON_LAMP.get());
                         output.accept(ModItems.REDSTONE_IRON_LAMP.get());
                         output.accept(ModItems.GLOWSTONE_IRON_LAMP.get());
+                        // Obsidian lamps
+                        output.accept(ModItems.OBSIDIAN_LAMP.get());
+                        output.accept(ModItems.REDSTONE_OBSIDIAN_LAMP.get());
+                        output.accept(ModItems.GLOWSTONE_OBSIDIAN_LAMP.get());
                     })
                     .build());
 }

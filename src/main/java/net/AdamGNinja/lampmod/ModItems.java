@@ -63,4 +63,9 @@ public class ModItems {
     public static final DeferredItem<BlockItem> IRON_LAMP           = registerLampItem("iron_lamp",           ModBlocks.IRON_LAMP);
     public static final DeferredItem<BlockItem> REDSTONE_IRON_LAMP  = registerLampItem("redstone_iron_lamp",  ModBlocks.REDSTONE_IRON_LAMP);
     public static final DeferredItem<BlockItem> GLOWSTONE_IRON_LAMP = registerLampItem("glowstone_iron_lamp", ModBlocks.GLOWSTONE_IRON_LAMP);
+
+    // Obsidian lamps
+    public static final DeferredItem<BlockItem> OBSIDIAN_LAMP           = registerLampItem("obsidian_lamp",           ModBlocks.OBSIDIAN_LAMP);
+    public static final DeferredItem<BlockItem> REDSTONE_OBSIDIAN_LAMP  = registerLampItem("redstone_obsidian_lamp",  ModBlocks.REDSTONE_OBSIDIAN_LAMP);
+    public static final DeferredItem<BlockItem> GLOWSTONE_OBSIDIAN_LAMP = registerLampItem("glowstone_obsidian_lamp", ModBlocks.GLOWSTONE_OBSIDIAN_LAMP);
 }
