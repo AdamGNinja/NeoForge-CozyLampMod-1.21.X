@@ -71,4 +71,14 @@ public class ModBlocks {
     public static final DeferredBlock<DeskLampBlock> OBSIDIAN_LAMP           = registerLamp("obsidian_lamp",           12);
     public static final DeferredBlock<DeskLampBlock> REDSTONE_OBSIDIAN_LAMP  = registerLamp("redstone_obsidian_lamp",   7);
     public static final DeferredBlock<DeskLampBlock> GLOWSTONE_OBSIDIAN_LAMP = registerLamp("glowstone_obsidian_lamp", 15);
+
+    // Lapis lamps
+    public static final DeferredBlock<DeskLampBlock> LAPIS_LAMP           = registerLamp("lapis_lamp",           12);
+    public static final DeferredBlock<DeskLampBlock> REDSTONE_LAPIS_LAMP  = registerLamp("redstone_lapis_lamp",   7);
+    public static final DeferredBlock<DeskLampBlock> GLOWSTONE_LAPIS_LAMP = registerLamp("glowstone_lapis_lamp", 15);
+
+    // Emerald bottle lamps
+    public static final DeferredBlock<DeskLampBlock> EMERALD_BOTTLELAMP           = registerLamp("emerald_bottlelamp",           12);
+    public static final DeferredBlock<DeskLampBlock> REDSTONE_EMERALD_BOTTLELAMP  = registerLamp("redstone_emerald_bottlelamp",   7);
+    public static final DeferredBlock<DeskLampBlock> GLOWSTONE_EMERALD_BOTTLELAMP = registerLamp("glowstone_emerald_bottlelamp", 15);
 }

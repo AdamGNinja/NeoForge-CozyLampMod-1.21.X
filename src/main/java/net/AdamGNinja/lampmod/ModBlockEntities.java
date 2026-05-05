@@ -60,6 +60,14 @@ public class ModBlockEntities {
                             // Obsidian lamps
                             ModBlocks.OBSIDIAN_LAMP.get(),
                             ModBlocks.REDSTONE_OBSIDIAN_LAMP.get(),
-                            ModBlocks.GLOWSTONE_OBSIDIAN_LAMP.get()
+                            ModBlocks.GLOWSTONE_OBSIDIAN_LAMP.get(),
+                            // Lapis lamps
+                            ModBlocks.LAPIS_LAMP.get(),
+                            ModBlocks.REDSTONE_LAPIS_LAMP.get(),
+                            ModBlocks.GLOWSTONE_LAPIS_LAMP.get(),
+                            // Emerald bottle lamps
+                            ModBlocks.EMERALD_BOTTLELAMP.get(),
+                            ModBlocks.REDSTONE_EMERALD_BOTTLELAMP.get(),
+                            ModBlocks.GLOWSTONE_EMERALD_BOTTLELAMP.get()
                     ).build(null));
 }

@@ -38,6 +38,14 @@
   "block.adamsdesklampmod.glowstone_crimson_lamp": "Glowstone Crimson Lamp",
   "block.adamsdesklampmod.glowstone_warped_lamp": "Glowstone Warped Lamp",
 
+  "block.adamsdesklampmod.emerald_bottlelamp": "Emerald Bottle Lamp",
+  "block.adamsdesklampmod.redstone_emerald_bottlelamp": "Redstone Emerald Bottle Lamp",
+  "block.adamsdesklampmod.glowstone_emerald_bottlelamp": "Glowstone Emerald Bottle Lamp",
+
+  "block.adamsdesklampmod.lapis_lamp": "Lapis Lamp",
+  "block.adamsdesklampmod.redstone_lapis_lamp": "Redstone Lapis Lamp",
+  "block.adamsdesklampmod.glowstone_lapis_lamp": "Glowstone Lapis Lamp",
+
   "block.adamsdesklampmod.obsidian_lamp": "Obsidian Lamp",
   "block.adamsdesklampmod.redstone_obsidian_lamp": "Redstone Obsidian Lamp",
   "block.adamsdesklampmod.glowstone_obsidian_lamp": "Glowstone Obsidian Lamp",

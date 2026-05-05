@@ -68,4 +68,14 @@ public class ModItems {
     public static final DeferredItem<BlockItem> OBSIDIAN_LAMP           = registerLampItem("obsidian_lamp",           ModBlocks.OBSIDIAN_LAMP);
     public static final DeferredItem<BlockItem> REDSTONE_OBSIDIAN_LAMP  = registerLampItem("redstone_obsidian_lamp",  ModBlocks.REDSTONE_OBSIDIAN_LAMP);
     public static final DeferredItem<BlockItem> GLOWSTONE_OBSIDIAN_LAMP = registerLampItem("glowstone_obsidian_lamp", ModBlocks.GLOWSTONE_OBSIDIAN_LAMP);
+
+    // Lapis lamps
+    public static final DeferredItem<BlockItem> LAPIS_LAMP           = registerLampItem("lapis_lamp",           ModBlocks.LAPIS_LAMP);
+    public static final DeferredItem<BlockItem> REDSTONE_LAPIS_LAMP  = registerLampItem("redstone_lapis_lamp",  ModBlocks.REDSTONE_LAPIS_LAMP);
+    public static final DeferredItem<BlockItem> GLOWSTONE_LAPIS_LAMP = registerLampItem("glowstone_lapis_lamp", ModBlocks.GLOWSTONE_LAPIS_LAMP);
+
+    // Emerald bottle lamps
+    public static final DeferredItem<BlockItem> EMERALD_BOTTLELAMP           = registerLampItem("emerald_bottlelamp",           ModBlocks.EMERALD_BOTTLELAMP);
+    public static final DeferredItem<BlockItem> REDSTONE_EMERALD_BOTTLELAMP  = registerLampItem("redstone_emerald_bottlelamp",  ModBlocks.REDSTONE_EMERALD_BOTTLELAMP);
+    public static final DeferredItem<BlockItem> GLOWSTONE_EMERALD_BOTTLELAMP = registerLampItem("glowstone_emerald_bottlelamp", ModBlocks.GLOWSTONE_EMERALD_BOTTLELAMP);
 }

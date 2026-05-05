@@ -9,6 +9,9 @@ import net.neoforged.fml.ModContainer;
 import net.neoforged.fml.common.EventBusSubscriber;
 import net.neoforged.fml.common.Mod;
 import net.neoforged.fml.event.lifecycle.FMLCommonSetupEvent;
+import net.minecraft.client.renderer.ItemBlockRenderTypes;
+import net.minecraft.client.renderer.RenderType;
+import net.neoforged.fml.event.lifecycle.FMLClientSetupEvent;
 import net.neoforged.neoforge.client.event.EntityRenderersEvent;
 import org.slf4j.Logger;
 
@@ -32,6 +35,15 @@ public class LampMod {
 
     @EventBusSubscriber(modid = LampMod.MOD_ID, bus = EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
     public static class ClientModEvents {
+
+        @SubscribeEvent
+        public static void onClientSetup(FMLClientSetupEvent event) {
+            event.enqueueWork(() -> {
+                ItemBlockRenderTypes.setRenderLayer(ModBlocks.LAPIS_LAMP.get(), RenderType.translucent());
+                ItemBlockRenderTypes.setRenderLayer(ModBlocks.REDSTONE_LAPIS_LAMP.get(), RenderType.translucent());
+                ItemBlockRenderTypes.setRenderLayer(ModBlocks.GLOWSTONE_LAPIS_LAMP.get(), RenderType.translucent());
+            });
+        }
 
         @SubscribeEvent
         public static void onRegisterRenderers(EntityRenderersEvent.RegisterRenderers event) {

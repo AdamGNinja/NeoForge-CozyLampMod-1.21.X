@@ -2,6 +2,7 @@ package net.AdamGNinja.lampmod.client.renderer;
 
 import com.mojang.blaze3d.vertex.PoseStack;
 import com.mojang.math.Axis;
+import net.AdamGNinja.lampmod.ModBlocks;
 import net.AdamGNinja.lampmod.block.DeskLampBlock;
 import net.AdamGNinja.lampmod.blockentity.DeskLampBlockEntity;
 import net.minecraft.client.Minecraft;
@@ -38,16 +39,21 @@ public class DeskLampBlockEntityRenderer implements BlockEntityRenderer<DeskLamp
         var dispatcher = Minecraft.getInstance().getBlockRenderer();
         BakedModel model = dispatcher.getBlockModel(state);
 
+        boolean isLapis = state.getBlock() == ModBlocks.LAPIS_LAMP.get() ||
+                          state.getBlock() == ModBlocks.REDSTONE_LAPIS_LAMP.get() ||
+                          state.getBlock() == ModBlocks.GLOWSTONE_LAPIS_LAMP.get();
+        RenderType renderType = isLapis ? RenderType.translucent() : RenderType.cutoutMipped();
+
         dispatcher.getModelRenderer().renderModel(
                 poseStack.last(),
-                bufferSource.getBuffer(RenderType.cutoutMipped()),
+                bufferSource.getBuffer(renderType),
                 state,
                 model,
                 1.0f, 1.0f, 1.0f,
                 lightLevel,
                 packedOverlay,
                 ModelData.EMPTY,
-                RenderType.cutoutMipped()
+                renderType
         );
 
         poseStack.popPose();

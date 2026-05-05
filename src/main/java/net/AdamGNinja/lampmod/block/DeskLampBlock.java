@@ -86,7 +86,7 @@ public class DeskLampBlock extends BaseEntityBlock {
 
     @Override
     public BlockState getStateForPlacement(BlockPlaceContext context) {
-        int rotation = (Mth.floor((double)(context.getRotation() * 8.0F / 360.0F) + 0.5D) * 2 + 8) & 15;
+        int rotation = (Mth.floor((double)(-context.getRotation() * 8.0F / 360.0F) + 0.5D) * 2 + 8) & 15;
         return this.defaultBlockState()
                 .setValue(ROTATION, rotation)
                 .setValue(LIT, false);

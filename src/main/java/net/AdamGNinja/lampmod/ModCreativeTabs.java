@@ -65,6 +65,14 @@ public class ModCreativeTabs {
                         output.accept(ModItems.OBSIDIAN_LAMP.get());
                         output.accept(ModItems.REDSTONE_OBSIDIAN_LAMP.get());
                         output.accept(ModItems.GLOWSTONE_OBSIDIAN_LAMP.get());
+                        // Lapis lamps
+                        output.accept(ModItems.LAPIS_LAMP.get());
+                        output.accept(ModItems.REDSTONE_LAPIS_LAMP.get());
+                        output.accept(ModItems.GLOWSTONE_LAPIS_LAMP.get());
+                        // Emerald bottle lamps
+                        output.accept(ModItems.EMERALD_BOTTLELAMP.get());
+                        output.accept(ModItems.REDSTONE_EMERALD_BOTTLELAMP.get());
+                        output.accept(ModItems.GLOWSTONE_EMERALD_BOTTLELAMP.get());
                     })
                     .build());
 }
