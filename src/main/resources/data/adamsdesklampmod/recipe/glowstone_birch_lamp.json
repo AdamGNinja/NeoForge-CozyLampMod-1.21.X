@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" T ", " P ", " W "],
+  "key": {
+    "T": {"item": "minecraft:glowstone"},
+    "P": {"item": "minecraft:birch_planks"},
+    "W": {"item": "minecraft:birch_log"}
+  },
+  "result": {"id": "adamsdesklampmod:glowstone_birch_lamp", "count": 1}
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["   ", " T ", " B "],
+  "key": {
+    "T": {"item": "minecraft:redstone_torch"},
+    "B": {"item": "minecraft:lapis_block"}
+  },
+  "result": {"id": "adamsdesklampmod:redstone_lapis_lamp", "count": 1}
+}

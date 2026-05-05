@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" T ", " P ", " W "],
+  "key": {
+    "T": {"item": "minecraft:glowstone"},
+    "P": {"item": "minecraft:mangrove_planks"},
+    "W": {"item": "minecraft:mangrove_log"}
+  },
+  "result": {"id": "adamsdesklampmod:glowstone_mangrove_lamp", "count": 1}
+}

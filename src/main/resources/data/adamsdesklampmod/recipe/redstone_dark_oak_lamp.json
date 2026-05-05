@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" T ", " P ", " W "],
+  "key": {
+    "T": {"item": "minecraft:redstone_torch"},
+    "P": {"item": "minecraft:dark_oak_planks"},
+    "W": {"item": "minecraft:dark_oak_log"}
+  },
+  "result": {"id": "adamsdesklampmod:redstone_dark_oak_lamp", "count": 1}
+}
