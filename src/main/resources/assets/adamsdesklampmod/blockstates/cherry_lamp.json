@@ -1,6 +1,0 @@
-{
-  "variants": {
-    "lit=false": { "model": "adamsdesklampmod:block/cherry_lamp_off" },
-    "lit=true":  { "model": "adamsdesklampmod:block/cherry_lamp_on" }
-  }
-}

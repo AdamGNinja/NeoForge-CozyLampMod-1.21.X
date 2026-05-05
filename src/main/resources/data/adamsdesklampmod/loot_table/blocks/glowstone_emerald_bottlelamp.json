@@ -1,1 +1,0 @@
-{"type":"minecraft:block","pools":[{"rolls":1.0,"bonus_rolls":0.0,"entries":[{"type":"minecraft:item","name":"adamsdesklampmod:glowstone_emerald_bottlelamp"}],"conditions":[{"condition":"minecraft:survives_explosion"}]}]}

@@ -1,6 +1,0 @@
-{
-  "variants": {
-    "lit=false": { "model": "adamsdesklampmod:block/glowstone_birch_lamp_off" },
-    "lit=true":  { "model": "adamsdesklampmod:block/glowstone_birch_lamp_on" }
-  }
-}

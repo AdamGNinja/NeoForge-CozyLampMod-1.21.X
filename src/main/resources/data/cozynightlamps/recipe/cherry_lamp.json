@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" T ", " P ", " W "],
+  "key": {
+    "T": {"item": "minecraft:torch"},
+    "P": {"item": "minecraft:cherry_planks"},
+    "W": {"item": "minecraft:cherry_log"}
+  },
+  "result": {"id": "cozynightlamps:cherry_lamp", "count": 1}
+}

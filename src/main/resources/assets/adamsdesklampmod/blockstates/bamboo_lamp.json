@@ -1,6 +1,0 @@
-{
-  "variants": {
-    "lit=false": { "model": "adamsdesklampmod:block/bamboo_lamp_off" },
-    "lit=true":  { "model": "adamsdesklampmod:block/bamboo_lamp_on" }
-  }
-}

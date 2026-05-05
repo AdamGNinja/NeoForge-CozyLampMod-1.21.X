@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "lit=false": { "model": "cozynightlamps:block/jungle_lamp_off" },
+    "lit=true":  { "model": "cozynightlamps:block/jungle_lamp_on" }
+  }
+}

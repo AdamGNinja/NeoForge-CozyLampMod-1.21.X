@@ -1,6 +1,0 @@
-{
-  "variants": {
-    "lit=false": { "model": "adamsdesklampmod:block/redstone_oak_lamp_off" },
-    "lit=true":  { "model": "adamsdesklampmod:block/redstone_oak_lamp_on" }
-  }
-}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["   ", " T ", " B "],
+  "key": {
+    "T": {"item": "minecraft:redstone_torch"},
+    "B": {"item": "minecraft:emerald_block"}
+  },
+  "result": {"id": "cozynightlamps:redstone_emerald_bottlelamp", "count": 1}
+}

@@ -1,0 +1,10 @@
+{
+	"parent": "cozynightlamps:block/wood_lamp",
+	"textures": {
+		"0": "cozynightlamps:block/spruce_base_on",
+		"3": "cozynightlamps:block/spruce_neck_on",
+		"4": "cozynightlamps:block/spruce_lamphead_on",
+		"5": "cozynightlamps:block/light_on",
+		"particle": "cozynightlamps:block/spruce_base_on"
+	}
+}

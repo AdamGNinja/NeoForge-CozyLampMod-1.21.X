@@ -18,7 +18,7 @@ import org.slf4j.Logger;
 @Mod(LampMod.MOD_ID)
 public class LampMod {
 
-    public static final String MOD_ID = "adamsdesklampmod";
+    public static final String MOD_ID = "cozynightlamps";
     public static final Logger LOGGER = LogUtils.getLogger();
 
     public LampMod(IEventBus modEventBus, ModContainer modContainer) {

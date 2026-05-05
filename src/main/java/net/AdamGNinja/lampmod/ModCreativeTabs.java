@@ -14,7 +14,7 @@ public class ModCreativeTabs {
 
     public static final DeferredHolder<CreativeModeTab, CreativeModeTab> LAMP_TAB =
             CREATIVE_MODE_TABS.register("lamp_tab", () -> CreativeModeTab.builder()
-                    .title(Component.translatable("creativetab.adamsdesklampmod.lamp_tab"))
+                    .title(Component.translatable("creativetab.cozynightlamps.lamp_tab"))
                     .withTabsBefore(CreativeModeTabs.COMBAT)
                     .icon(() -> ModItems.DESK_LAMP.get().getDefaultInstance())
                     .displayItems((parameters, output) -> {

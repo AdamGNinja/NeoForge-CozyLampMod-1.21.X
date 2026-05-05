@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["   ", " T ", " B "],
+  "key": {
+    "T": {"item": "minecraft:torch"},
+    "B": {"item": "minecraft:lapis_block"}
+  },
+  "result": {"id": "cozynightlamps:lapis_lamp", "count": 1}
+}

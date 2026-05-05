@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" T ", " B ", " I "],
+  "key": {
+    "T": {"item": "minecraft:redstone_torch"},
+    "B": {"item": "minecraft:iron_bars"},
+    "I": {"item": "minecraft:iron_ingot"}
+  },
+  "result": {"id": "cozynightlamps:redstone_iron_lamp", "count": 1}
+}

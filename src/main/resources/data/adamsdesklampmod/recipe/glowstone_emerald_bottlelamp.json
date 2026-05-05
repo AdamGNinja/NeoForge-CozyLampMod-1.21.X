@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:crafting_shaped",
-  "pattern": ["   ", " T ", " B "],
-  "key": {
-    "T": {"item": "minecraft:glowstone"},
-    "B": {"item": "minecraft:emerald_block"}
-  },
-  "result": {"id": "adamsdesklampmod:glowstone_emerald_bottlelamp", "count": 1}
-}
