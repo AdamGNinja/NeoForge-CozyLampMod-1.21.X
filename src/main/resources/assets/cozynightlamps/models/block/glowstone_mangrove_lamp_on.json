@@ -1,0 +1,10 @@
+{
+	"parent": "cozynightlamps:block/wood_lamp",
+	"textures": {
+		"0": "cozynightlamps:block/mangrove_base_on",
+		"3": "cozynightlamps:block/mangrove_neck_glow_on",
+		"4": "cozynightlamps:block/mangrove_lamphead_glow_on",
+		"5": "cozynightlamps:block/glow_light_on",
+		"particle": "cozynightlamps:block/mangrove_base_on"
+	}
+}

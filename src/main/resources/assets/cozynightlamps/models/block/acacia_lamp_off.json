@@ -1,0 +1,10 @@
+{
+	"parent": "cozynightlamps:block/wood_lamp",
+	"textures": {
+		"0": "cozynightlamps:block/acacia_base_off",
+		"3": "cozynightlamps:block/acacia_neck_off",
+		"4": "cozynightlamps:block/acacia_lamphead_off",
+		"5": "cozynightlamps:block/light_off",
+		"particle": "cozynightlamps:block/acacia_base_off"
+	}
+}

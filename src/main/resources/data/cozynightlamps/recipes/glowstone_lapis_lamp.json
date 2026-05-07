@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["   ", " T ", " B "],
+  "key": {
+    "T": {"item": "minecraft:glowstone"},
+    "B": {"item": "minecraft:lapis_block"}
+  },
+  "result": {"item": "cozynightlamps:glowstone_lapis_lamp", "count": 1}
+}

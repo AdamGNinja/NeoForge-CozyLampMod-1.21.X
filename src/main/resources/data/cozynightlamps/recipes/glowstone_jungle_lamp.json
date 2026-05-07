@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" T ", " P ", " W "],
+  "key": {
+    "T": {"item": "minecraft:glowstone"},
+    "P": {"item": "minecraft:jungle_planks"},
+    "W": {"item": "minecraft:jungle_log"}
+  },
+  "result": {"item": "cozynightlamps:glowstone_jungle_lamp", "count": 1}
+}

@@ -1,0 +1,58 @@
+{
+  "block.cozynightlamps.desk_lamp": "Desk Lamp",
+  "block.cozynightlamps.floor_lamp": "Floor Lamp",
+
+  "block.cozynightlamps.oak_lamp": "Oak Lamp",
+  "block.cozynightlamps.spruce_lamp": "Spruce Lamp",
+  "block.cozynightlamps.birch_lamp": "Birch Lamp",
+  "block.cozynightlamps.jungle_lamp": "Jungle Lamp",
+  "block.cozynightlamps.acacia_lamp": "Acacia Lamp",
+  "block.cozynightlamps.dark_oak_lamp": "Dark Oak Lamp",
+  "block.cozynightlamps.mangrove_lamp": "Mangrove Lamp",
+  "block.cozynightlamps.cherry_lamp": "Cherry Lamp",
+  "block.cozynightlamps.bamboo_lamp": "Bamboo Lamp",
+  "block.cozynightlamps.crimson_lamp": "Crimson Lamp",
+  "block.cozynightlamps.warped_lamp": "Warped Lamp",
+
+  "block.cozynightlamps.redstone_oak_lamp": "Redstone Oak Lamp",
+  "block.cozynightlamps.redstone_spruce_lamp": "Redstone Spruce Lamp",
+  "block.cozynightlamps.redstone_birch_lamp": "Redstone Birch Lamp",
+  "block.cozynightlamps.redstone_jungle_lamp": "Redstone Jungle Lamp",
+  "block.cozynightlamps.redstone_acacia_lamp": "Redstone Acacia Lamp",
+  "block.cozynightlamps.redstone_dark_oak_lamp": "Redstone Dark Oak Lamp",
+  "block.cozynightlamps.redstone_mangrove_lamp": "Redstone Mangrove Lamp",
+  "block.cozynightlamps.redstone_cherry_lamp": "Redstone Cherry Lamp",
+  "block.cozynightlamps.redstone_bamboo_lamp": "Redstone Bamboo Lamp",
+  "block.cozynightlamps.redstone_crimson_lamp": "Redstone Crimson Lamp",
+  "block.cozynightlamps.redstone_warped_lamp": "Redstone Warped Lamp",
+
+  "block.cozynightlamps.glowstone_oak_lamp": "Glowstone Oak Lamp",
+  "block.cozynightlamps.glowstone_spruce_lamp": "Glowstone Spruce Lamp",
+  "block.cozynightlamps.glowstone_birch_lamp": "Glowstone Birch Lamp",
+  "block.cozynightlamps.glowstone_jungle_lamp": "Glowstone Jungle Lamp",
+  "block.cozynightlamps.glowstone_acacia_lamp": "Glowstone Acacia Lamp",
+  "block.cozynightlamps.glowstone_dark_oak_lamp": "Glowstone Dark Oak Lamp",
+  "block.cozynightlamps.glowstone_mangrove_lamp": "Glowstone Mangrove Lamp",
+  "block.cozynightlamps.glowstone_cherry_lamp": "Glowstone Cherry Lamp",
+  "block.cozynightlamps.glowstone_bamboo_lamp": "Glowstone Bamboo Lamp",
+  "block.cozynightlamps.glowstone_crimson_lamp": "Glowstone Crimson Lamp",
+  "block.cozynightlamps.glowstone_warped_lamp": "Glowstone Warped Lamp",
+
+  "block.cozynightlamps.emerald_bottlelamp": "Emerald Bottle Lamp",
+  "block.cozynightlamps.redstone_emerald_bottlelamp": "Redstone Emerald Bottle Lamp",
+  "block.cozynightlamps.glowstone_emerald_bottlelamp": "Glowstone Emerald Bottle Lamp",
+
+  "block.cozynightlamps.lapis_lamp": "Lapis Lamp",
+  "block.cozynightlamps.redstone_lapis_lamp": "Redstone Lapis Lamp",
+  "block.cozynightlamps.glowstone_lapis_lamp": "Glowstone Lapis Lamp",
+
+  "block.cozynightlamps.obsidian_lamp": "Obsidian Lamp",
+  "block.cozynightlamps.redstone_obsidian_lamp": "Redstone Obsidian Lamp",
+  "block.cozynightlamps.glowstone_obsidian_lamp": "Glowstone Obsidian Lamp",
+
+  "block.cozynightlamps.iron_lamp": "Iron Lamp",
+  "block.cozynightlamps.redstone_iron_lamp": "Redstone Iron Lamp",
+  "block.cozynightlamps.glowstone_iron_lamp": "Glowstone Iron Lamp",
+
+  "creativetab.cozynightlamps.lamp_tab": "Cozy Night Lamps"
+}

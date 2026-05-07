@@ -1,0 +1,6 @@
+{
+	"parent": "cozynightlamps:block/mangrove_lamp_off",
+	"textures": {
+		"5": "cozynightlamps:block/glow_light_off"
+	}
+}

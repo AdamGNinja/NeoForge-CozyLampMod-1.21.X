@@ -1,0 +1,10 @@
+{
+	"parent": "cozynightlamps:block/wood_lamp",
+	"textures": {
+		"0": "cozynightlamps:block/darkoak_base_on",
+		"3": "cozynightlamps:block/darkoak_neck_glow_on",
+		"4": "cozynightlamps:block/darkoak_lamphead_glow_on",
+		"5": "cozynightlamps:block/glow_light_on",
+		"particle": "cozynightlamps:block/darkoak_base_on"
+	}
+}
